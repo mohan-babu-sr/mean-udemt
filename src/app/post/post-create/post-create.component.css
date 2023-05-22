@@ -1,0 +1,30 @@
+
+/* form{
+    margin: auto;
+} */
+mat-form-field{
+    margin: auto;
+    margin-top: 1rem;
+    width: 80%;
+}
+
+/* button{
+    align-content: center;
+} */
+
+mat-spinner{
+    margin: auto;
+}
+
+input[type="file"]{
+    visibility: hidden;
+}
+
+.image-preview{
+    height: 5rem;
+    margin: 1rem 0;
+}
+
+.image-preview img{
+    height: 100%;
+}
