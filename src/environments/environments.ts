@@ -2,5 +2,5 @@
 
 export const environment = {
     production: false,
-    apiURL: 'http://localhost:3000/api'
+    apiURL: 'https://postserver-imk4.onrender.com/api'
 };
